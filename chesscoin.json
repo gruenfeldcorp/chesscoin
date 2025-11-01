@@ -1,7 +1,8 @@
 {
   "name": "ChessCoin",
   "symbol": "CHESSC",
-  "description": "The native token for chess tournaments and play-chess-to-earn rewards."
-  "image": "https://raw.githubusercontent.com/gruenfeldcorp/chesscoin/main/chesscoin.png"
+  "description": "The native token for chess tournaments and play-chess-to-earn rewards.",
+  "image": "https://raw.githubusercontent.com/gruenfeldcorp/chesscoin/main/chesscoin.png?v=2"
 }
+
 
