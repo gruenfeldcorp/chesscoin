@@ -1,8 +1,9 @@
 {
-  "name": "ChessCoin",
-  "symbol": "CHESSC",
-  "description": "The native token for chess tournaments and play-chess-to-earn rewards.",
-  "image": "https://raw.githubusercontent.com/gruenfeldcorp/chesscoin/main/chesscoin.png?v=2"
+  "name": "ChessClub",
+  "symbol": "CCLB",
+  "description": "The native token for ChessClub tournaments, memberships, and play-to-earn rewards.",
+  "image": "https://raw.githubusercontent.com/gruenfeldcorp/chesscoin/main/chesscoin.png"
 }
+
 
 
